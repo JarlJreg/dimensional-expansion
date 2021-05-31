@@ -1,3 +1,3 @@
 # dimensional-expansion
 
-Small expansion pack focused on building tall
+Small expansion mod for Stellaris focused on building tall and utilizing dark matter
